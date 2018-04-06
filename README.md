@@ -2,7 +2,7 @@
 # Must open //README file to view repository and source code. As such, recommended to use PC as Mac OS is overtly complicated to open any   new file directories with the aforementioned repository sub-queues
  *source code begins here
  
- //this code is not for sale yet, final project will be posted soon. Once the project runs then bidding can begin
+ //Don't take raw .txt file. Convert to java standard JRE in order to properly read the code
  
  import java.awt.Color;
  import java.awt.Dimensions;
