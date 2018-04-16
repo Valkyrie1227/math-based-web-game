@@ -4,45 +4,45 @@
  
  //Don't take raw .txt file. Convert to java standard JRE in order to properly read the code
  
- package com.github
+package com.github
  
- import java.awt.Color;
- import java.awt.Dimensions;
- import java.awt.KeyListener;
- import java.awt.Font;
- import java.awt.FontMetrics;
- import java.awt.Graphics;
- import java.awt.Toolkit;
- import javax.swing.Textures;
- import javax.swing.Image;
- import javax.swing.Attributes;
+import java.awt.Color;
+import java.awt.Dimensions;
+import java.awt.KeyListener;
+import java.awt.Font;
+import java.awt.FontMetrics;
+import java.awt.Graphics;
+import java.awt.Toolkit;
+import javax.swing.Textures;
+import javax.swing.Image;
+import javax.swing.Attributes;
  
  
- public class Board extends JPanel(); {
-  boolean ( x = 0 ) , ( y = 0 );
-  this int [] x = false;
-  this int [] y = false;
-  this int [] z = x + y; 
-  z = true;
+public class Board extends JPanel(); {
+ boolean ( x = 0 ) , ( y = 0 );
+ this int [] x = false;
+ this int [] y = false;
+ this int [] z = x + y; 
+ z = true;
   
-  )
+ )
   
- private void setup; {
- private class dimensions extends JFrame(); {
+private void setup; {
+private class dimensions extends JFrame(); {
  
-  this key 1 ( position x = true );
-  this key 2 ( position x = false );
-  this key 3 ( position x = true );
-  this key 4 ( position y = false );
-  
-  }
+ this key 1 ( position x = true );
+ this key 2 ( position x = false );
+ this key 3 ( position x = true );
+ this key 4 ( position y = false );
   
  }
+  
+}
  
- private static void main(string [args]); {
-  JFrame = new JFrame;
-  class.main = true;
-  JPanel = EXIT_ON_COMMAND;
+private static void main(string [args]); {
+ JFrame = new JFrame;
+ class.main = true;
+ JPanel = EXIT_ON_COMMAND;
   
 }
 
@@ -114,16 +114,16 @@
    draw (square);
    draw (triangle);
    draw (rectangle);
-    drawString (FillRectangle Method);
+   drawString (FillRectangle Method);
     
-   g.String = null(void); {
+    g.String = null(void); {
    
-    Calc (null);
-    integrate [function(new)];
-    method.new;
-    ()
+     Calc (null);
+     integrate [function(new)];
+     method.new;
+     ()
     
-     paintComponent.java.swingx;
-     add new ();
-     void (draw);
+      paintComponent.java.swingx;
+      add new ();
+      void (draw);
      
