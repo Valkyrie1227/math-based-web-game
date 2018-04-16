@@ -78,4 +78,50 @@
   
   public void @edit; {
   draw (circle);
-  polar = 
+  polar = [ x - 1 rad , y - 1 rad , sec (pi) = -1 ];
+  package trig int;
+  import java.swing.trig;
+  this = boolean (arg) @override;
+   if (arg) = false
+   
+  null();
+  final (program lock constructor());
+  insert void draw (polygon);
+  }
+  
+  public class void main (string [args]);{
+   package sub;
+   import javax.swing.color;
+   
+  }
+  
+  this int x = null();{
+   if (x , x - 1 = 0 );
+   
+  }
+  
+  this int y = null(); {
+   if ( y , y - 1 = 0 );
+   
+  }
+  
+   void null args ( x , y ); {
+   new int [ x , y ];
+   draw (circle);
+   draw (elipse);
+   draw (square);
+   draw (triangle);
+   draw (rectangle);
+    drawString (FillRectangle Method);
+    
+   g.String = null(void); {
+   
+    Calc (null);
+    integrate [function(new)];
+    method.new;
+    ()
+    
+     paintComponent.java.swingx;
+     add new ();
+     void (draw);
+     
