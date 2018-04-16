@@ -4,6 +4,8 @@
  
  //Don't take raw .txt file. Convert to java standard JRE in order to properly read the code
  
+ package com.github
+ 
  import java.awt.Color;
  import java.awt.Dimensions;
  import java.awt.KeyListener;
