@@ -122,8 +122,20 @@
      integrate [function(new)];
      method.new;
      ()
+     
+     }
     
-      paintComponent.java.swingx;
+      paintComponent.java.swingx; {
       add new ();
       void (draw);
+      
+      }
+      
+      public static main [string (0)]; {
+        System.out.println(x);
+        System.exit(0);
+        System.out.println(y);
+        return;
+        
+       }
      
