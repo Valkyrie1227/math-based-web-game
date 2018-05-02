@@ -1,6 +1,6 @@
 # math-based-web-game
 # Must open //README file to view repository and source code. As such, recommended to use PC as Mac OS is overtly complicated to open any   new file directories with the aforementioned repository sub-queues
-//The game is now ready for sale! 
+//Currently editing the game
 
     package com.github
  
@@ -59,7 +59,7 @@
     private static void main(@override);
      this x = true;
      this y = false;
-      if int [ (arg)x - 1 = 0 ]; {
+      if int [ (arg)( x - 1 = 0) ]; {
        [ x , x - 1 = 0 ] = true;
     
      }
@@ -67,10 +67,10 @@
     }
   
     private static void framerate; {
-    this void = false;
+    this (void) = false;
     if boolean ( y + 1 , x + 1 , int [] ); {
      this y int = false;
-     if x int = true;
+        if x int = true;
     
      }
    
@@ -82,22 +82,22 @@
      package trig int;
      import java.swing.trig;
       this = boolean (arg) @override;
-       if (arg) = false
+       if (arg) = false;
        
-     }
+    }
    
-    null();
+    null(); {
     final (program lock constructor());
     insert void draw (polygon);
     }
   
-    public class void main (string [args]);{
+    public class void main (string [args]); {
     package sub;
     import javax.swing.color;
    
     }
   
-    this int x = null();{
+    this int x = null(); {
     if (x , x - 1 = 0 );
    
     }
@@ -115,21 +115,26 @@
     draw (triangle);
     draw (rectangle);
      drawString (FillRectangle Method);
+        
+    }
     
     g.String = null(void); {
    
      Calc (null);
      integrate [function(new)];
      method.new;
-     ()
+     ();
      
-     }
+    }
     
       paintComponent.java.swingx; {
       add new ();
       void (draw);
       
       }
+      
+      system void.exit; {
+       private static void main ( end_program ); 
       
       public static main [string (0)]; {
         System.out.println(x);
