@@ -1,8 +1,30 @@
 # math-based-web-game
 # Must open //README file to view repository and source code. As such, recommended to use PC as Mac OS is overtly complicated to open any   new file directories with the aforementioned repository sub-queues
-//Currently editing the game
+//Still working on this, sorry for the delay
 
-    package com.github
+    package com.github; {
+    package string_location;
+    import javascript.jre;
+    
+    }
+    
+    <find_location>
+    <body>
+        <p1> Users_Valkyrie1227
+    <end>
+    
+    import java.jre; {
+        private static void ( new class );
+        private class java (class extends JRE);
+            Action (EventListener) java.g.string; {
+            @override private class java;
+                this [ parameter (event:Event) ];
+                    if parameter java.g.string = (command_sctript);
+                 Action import java.jre.javascript;
+                 Home ActionEventListener ( script.final );
+             set object (applet) !event 
+                this object 
+                 
  
     import java.awt.Color;
     import java.awt.Dimensions;
