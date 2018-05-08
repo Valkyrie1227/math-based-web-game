@@ -22,9 +22,14 @@
                     if parameter java.g.string = (command_sctript);
                  Action import java.jre.javascript;
                  Home ActionEventListener ( script.final );
-             set object (applet) !event 
-                this object 
-                 
+             set object (applet) !event; {
+                this object (applet) = void;
+                ActionScript final = !eventListener(home.HomeButton);
+                g.string [ eventListener , keyListener , ActionScript ]; 
+                    java.jre = true set, (void);                    
+             }
+            }      
+     }        
  
     import java.awt.Color;
     import java.awt.Dimensions;
@@ -43,34 +48,36 @@
      this int [] x = false;
      this int [] y = false;
      this int [] z = x + y; 
-     z = true;
-  
+     z = true; 
     }
   
     private void setup; {
-    private class dimensions extends JFrame(); {
+    private class dimensions extends JFrame(); 
  
      this key 1 ( position x = true );
      this key 2 ( position x = false );
      this key 3 ( position x = true );
      this key 4 ( position y = false );
-  
-     }
-  
     }
  
     private static void main(string [args]); {
     JFrame = new JFrame;
     class.main = true;
     JPanel = EXIT_ON_COMMAND;
-  
     }
 
+    import flash.events.Event;
+    
+    Home.addEventListener (MouseEvent.CLICK, clickHome); 
+    function clickHome (event:Event) :void {
+        trace ("home");
+        gotoAndStop ("Home");
+    }
+   
     private class Font extends JFrame(); {
     import java.awt.Font [ Calibri ];
     set Font = true;
     Font size = ( 30 );
-  
     }
  
     private class FontMetrics extends JFrame (); {
@@ -82,20 +89,16 @@
      this x = true;
      this y = false;
       if int [ (arg)( x - 1 = 0) ]; {
-       [ x , x - 1 = 0 ] = true;
-    
-     }
-   
+       [ x , x - 1 = 0 ] = true;  
+      }
     }
   
     private static void framerate; {
     this (void) = false;
     if boolean ( y + 1 , x + 1 , int [] ); {
      this y int = false;
-        if x int = true;
-    
-     }
-   
+        if x int = true;  
+     } 
     }
   
     public void @edit; {
@@ -104,8 +107,7 @@
      package trig int;
      import java.swing.trig;
       this = boolean (arg) @override;
-       if (arg) = false;
-       
+       if (arg) = false;    
     }
    
     null(); {
@@ -116,17 +118,14 @@
     public class void main (string [args]); {
     package sub;
     import javax.swing.color;
-   
     }
   
     this int x = null(); {
     if (x , x - 1 = 0 );
-   
     }
   
     this int y = null(); {
-    if ( y , y - 1 = 0 );
-   
+    if ( y , y - 1 = 0 ); 
     }
   
     void null args ( x , y ); {
@@ -136,8 +135,7 @@
     draw (square);
     draw (triangle);
     draw (rectangle);
-     drawString (FillRectangle Method);
-        
+     drawString (FillRectangle Method);       
     }
     
     g.String = null(void); {
@@ -145,24 +143,22 @@
      Calc (null);
      integrate [function(new)];
      method.new;
-     ();
-     
+     ();    
     }
     
       paintComponent.java.swingx; {
       add new ();
-      void (draw);
-      
+      void (draw);      
       }
       
       system void.exit; {
        private static void main ( end_program ); 
+      }
       
       public static main [string (0)]; {
         System.out.println(x);
         System.exit(0);
         System.out.println(y);
-        return;
-        
+        return;        
       }
      
